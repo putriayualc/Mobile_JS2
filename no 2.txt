@@ -1,0 +1,4 @@
+JOBSHEET 2
+
+JAWABAN SOAL 2
+Bahasa Dart adalah inti dari framework Flutter. Memahami Dart penting karena Flutter sepenuhnya menggunakan Dart. Dart juga mendukung async dan await, yang penting untuk menangani operasi seperti fetching data dalam Flutter. Dart adalah bahasa berorientasi objek, dan Flutter banyak menggunakan konsep OOP. Selain itu keunggulan dari bahasa pemrograman dart adalah bisa menulis kode yang sama untuk platform yang berbeda.
